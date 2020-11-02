@@ -1,2 +1,2 @@
 # geogram
-Instagram API
+A simple application to lookup Instagram photos by location.
